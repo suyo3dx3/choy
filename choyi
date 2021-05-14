@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:0 ,ATV
+https://qlobbidev.s.llnwi.net/bpk-tv/ATV/hls/ATV-audio_128058_und=128000-video=3300000.m3u8
+
+#EXTINF:0 ,Latina 
+https://qlobbidev.s.llnwi.net/bpk-tv/LATINA/hls/LATINA-audio_132113_spa=128000-video=2900000.m3u8
+
+#EXTINF:0 ,America
+https://qlobbidev.s.llnwi.net/bpk-tv/AMERICATV/hls/AMERICATV-audio_128175_eng=128000-video=2900000.m3u8
+
+#EXTINF:0 ,Panamericana
+https://qlobbidev.s.llnwi.net/bpk-tv/PANAMERICANA/hls/PANAMERICANA-audio_128034_eng=128000-video=1900000.m3u8
+
+#EXTINF:0 ,Willax
+https://qlobbidev.s.llnwi.net/bpk-tv/WILLAX/hls/WILLAX-audio_128260_spa=128000-video=1900000.m3u8
+
+#EXTINF:0 ,Tlnovelas
+https://qlobbidev.s.llnwi.net/bpk-tv/MERIDIANO/hls/MERIDIANO-audio_132128_spa=128000-video=2000000.m3u8
+
+
+#EXTINF:0 ,RT
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+
+#EXTINF:0 ,Golden
+https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/GOLDEN-audio_132128_spa=128000-video=2900000.m3u8
+
+#EXTINF:0 ,AMC
+https://qlobbidev.s.llnwi.net/bpk-tv/AMC/hls/AMC-audio_132113_spa=128000-video=2900000.m3u8
+
+#EXTINF:0 ,DHE
+https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/DHE-audio_132113_spa=128000-video=1900000.m3u8
+
+#EXTINF:0 ,Golden Edge
+https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/GEDGE-audio_132128_spa=128000-video=2900000.m3u8
+
+#EXTINF:0 ,De Pelicula
+https://qlobbidev.s.llnwi.net/bpk-tv/E/hls/E-audio_132128_spa=128000-video=1900000.m3u8
+
+#EXTINF:0 ,Cinecanal
+https://qlobbidev.s.llnwi.net/bpk-tv/CINECANAL/hls/CINECANAL-audio_132113_spa=128000-video=2900000.m3u8
+
+#EXTINF:0 ,FXM
+https://qlobbidev.s.llnwi.net/bpk-tv/FXM/hls/FXM-audio_132113_spa=128000-video=2900000.m3u8
+
+#EXTINF:0 ,FX
+https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/FX-audio_132113_spa=128000-video=1900000.m3u8
+
+#EXTINF:0 ,Disney Channel
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/dash/dash/DISNEYCHANNEL-video=2900000-97256692915270.dash
+
+#EXTINF:0 ,Disney XD
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/DISNEYXD-audio_129221_und=128000-video=2900000.m3u8
+
+#EXTINF:0 ,NAT gGEO WILD
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOWILD/hls/NATGEOWILD-audio_124113_spa=120000-video=2000000.m3u8
+
+#EXTINF:0 ,ESPNhd
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN/hls/ESPN-audio_132128_spa=128000-video=2900000.m3u8
+
+#EXTINF:0 ,Fox HD
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORTS/hls/FOXSPORTS-audio_128064_und=128000-video=2900000.m3u8
+
+#EXTINF:0 ,Telesur ILO
+https://qlobbidev.s.llnwi.net/telesur3/hls/ilo.m3u8
